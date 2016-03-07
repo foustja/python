@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+#madelbrot.py
 #Jack Foust
 #foustja@gmail.com
 
