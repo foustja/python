@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#mandel.py
+#mandel2.py
 #Jack Foust
 #3/7/2016
 #foustja@gmail.com
