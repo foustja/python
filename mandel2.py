@@ -33,7 +33,7 @@ sudo pip install Pillow
 
 
 
-If you are using python3, you may also need to these commands:
+If you are using python3, you may also need to run these commands:
 
 sudo apt-get install python3-pil
 sudo apt-get install python-pil.imagetk
