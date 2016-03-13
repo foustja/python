@@ -115,13 +115,13 @@ modified for sound production. The sounds producd are still very rudimentary.
 The concept is to produce tones according to patterns produced by the iterated
 formulae and square modulus tests described above.
 
-The sound module used is the Snack toolkit available at, developed by Kåre
-Sjölander (kare@speech.kth.se) of the Department of Speech, Music and Hearing,
-KTH Royal Institute of Technology, Stockholm.
+The sound module used is the Snack toolkit, developed by Kåre Sjölander 
+(kare@speech.kth.se) of the Department of Speech, Music and Hearing, KTH Royal 
+Institute of Technology, Stockholm.
 
 The web page for the Snack toolkit: http://www.speech.kth.se/snack/
 
-Under Ubuntu, the necessary packages can be installed using he following
+Under Ubuntu, the necessary packages can be installed using the following
 commands:
 
 sudo apt-get install libsnack2
@@ -129,7 +129,7 @@ sudo apt-get install libsnack2-dev
 sudo apt-get install libsnack2-alsa
 sudo apt-get install python-tksnack
 
-Snack mush be used in conjunction with Tkinter. Import as tkSnack. A tutorial
+Snack must be used in conjunction with Tkinter. Import as tkSnack. A tutorial
 is available at http://www.speech.kth.se/snack/man/snack2.2/python-man.html.
 
 '''
