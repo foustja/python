@@ -57,7 +57,7 @@ the result does not exceed 4.0 after 20 iterations, then it is expected that
 this value will be confined to the set of finite real numbers and not diverge
 to infinity. The set of points in the complex plane which satisfies these
 conditions is referred to as the Mandelbrot set, and these points will be
-colored black (0, 0, 0) in this image.
+colored black (0, 0, 0) in the image.
 
 
 The function used to generate the Mandelbrot set is the iterated function:
