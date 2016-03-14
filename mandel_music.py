@@ -115,11 +115,13 @@ modified for sound production. The sounds producd are still very rudimentary.
 The concept is to produce tones according to patterns produced by the iterated
 formulae and square modulus tests described above.
 
-The sound module used is the Snack toolkit, developed by Kåre Sjölander 
-(kare@speech.kth.se) of the Department of Speech, Music and Hearing, KTH Royal 
-Institute of Technology, Stockholm.
+The sound module used is the Snack toolkit, developed by Kare Sjolander 
+of the Department of Speech, Music and Hearing, KTH Royal Institute of 
+Technology, Stockholm.
 
-The web page for the Snack toolkit: http://www.speech.kth.se/snack/
+The web page for the Snack toolkit may be found at: 
+
+http://www.speech.kth.se/snack/
 
 Under Ubuntu, the necessary packages can be installed using the following
 commands:
