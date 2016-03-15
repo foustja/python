@@ -146,7 +146,11 @@ def main():
 
     #the canvas.show() method can be uncommented to provide a another way of
     #displaying results. Whether or not it works is likely to be OS dependent.
+    #In Ubuntu it was necessary to modify the Tkinter ImageShow.py module in 
+    #order for the method to call the default viewer. A complete explanation
+    #can be found at: 
     
-
+    #http://stackoverflow/questions/16279441/image-show-wont-display-the-picture
+    
 if __name__ == "__main__":
     main()
