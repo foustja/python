@@ -37,7 +37,7 @@ If you are using python3, you may also need to run these commands:
 
 sudo apt-get install python3-pil
 sudo apt-get install python-pil.imagetk
-sudo apt-get install python-pil3.imagetk
+sudo apt-get install python3-pil.imagetk
 
 Tkinter is imported as tkinter under python3 and requires installation of
 python3-tk:
