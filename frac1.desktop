@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=fractal 1.0.1
+Comment=fractal generator
+Exec=/home/foustja/python/frac1.py
+Icon=/home/foustja/python/fractal.bmp
+Path=/home/foustja/python
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Utility;Application;
